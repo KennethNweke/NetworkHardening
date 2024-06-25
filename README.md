@@ -1,4 +1,4 @@
-# NetworkHardening
+# Network Hardening
 
 ## Objective
 [Brief Objective - Remove this afterwards]
