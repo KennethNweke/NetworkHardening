@@ -1,6 +1,4 @@
-# NetworkHardening-
-
-# PROJECTNAME
+# NetworkHardening
 
 ## Objective
 [Brief Objective - Remove this afterwards]
