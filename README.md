@@ -8,7 +8,7 @@ The Network Hardening project aimed to establish a secure network topology. The 
 ## Skills Learned
 
 - **Vulnerability Assessment**:
-  - Conducting thorough vulnerability scans using tools like Nessus or OpenVAS.
+  - Conducting thorough vulnerability scans and preliminary tests on commandline.
   - Analyzing scan results to identify and prioritize network vulnerabilities.
 
 - **Firewall Configuration**:
