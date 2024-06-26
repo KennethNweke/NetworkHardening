@@ -5,7 +5,7 @@
 
 The Network Hardening project aimed to establish a secure network topology. The primary focus was to enhance the security and resilience of a network by applying various hardening techniques by identifying vulnerabilities, implementing security controls, and follow best practices to protect network infrastructure from potential threats. 
 
-### Skills Learned
+## Skills Learned
 
 - **Vulnerability Assessment**:
   - Conducting thorough vulnerability scans using tools like Nessus or OpenVAS.
@@ -31,7 +31,7 @@ The Network Hardening project aimed to establish a secure network topology. The 
 - **Security Testing and Validation**:
   - Running tests to ensure devices are secure and align with business policy.
 
-### Tools Used
+## Tools Used
 - Network Simulation
 - Packet Tracer
 
@@ -43,8 +43,7 @@ The Network Hardening project aimed to establish a secure network topology. The 
 - Layer 2 security (CDP, DHCP Snooping, ARP Inspection, Port Security and Description)
 - Test and validate the effectiveness of security measures.
 
-
+## Resources
 Full PT File and Documentation below.
-
-[Kenneth Nweke - Network Hardening .pdf](https://github.com/user-attachments/files/15986792/Kenneth.Nweke.-.Network.Hardening.pdf)
+  - [Kenneth Nweke - Network Hardening .pdf](https://github.com/user-attachments/files/15986792/Kenneth.Nweke.-.Network.Hardening.pdf)
 
