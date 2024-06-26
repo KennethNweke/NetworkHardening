@@ -1,4 +1,5 @@
 # Network Hardening
+![NH](https://github.com/KennethNweke/NetworkHardening/assets/88651458/e312b440-647a-4155-8c35-fb4cf460206b)
 
 ## Objective
 
