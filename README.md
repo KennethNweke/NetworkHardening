@@ -3,7 +3,7 @@
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Network Hardening project aimed to establish a secure network topology. The primary focus was to enhance the security and resilience of a network by applying various hardening techniques by identifying vulnerabilities, implementing security controls, and follow best practices to protect network infrastructure from potential threats. 
 
 ### Skills Learned
 - Advanced understanding of SIEM concepts and practical application.
@@ -13,17 +13,19 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Network Simulation
+- Packet Tracer
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+- Conduct vulnerability assessments and analyze network weaknesses.
+- Configure ZBPF firewalls, intrusion detection/prevention systems, and secure network devices.
+- Implement ACLs
+- Configured site-to-site VPN
+- Layer 2 security (CDP, DHCP Snooping, ARP Inspection, Port Security and Description)
+- Test and validate the effectiveness of security measures.
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
+Full PT File and Documentation below.
 
-*Ref 1: Network Diagram*
+[Kenneth Nweke - Network Hardening .pdf](https://github.com/user-attachments/files/15986792/Kenneth.Nweke.-.Network.Hardening.pdf)
+
