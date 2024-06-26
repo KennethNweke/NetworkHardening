@@ -6,7 +6,6 @@
 The Network Hardening project aimed to establish a secure network topology. The primary focus was to enhance the security and resilience of a network by applying various hardening techniques by identifying vulnerabilities, implementing security controls, and follow best practices to protect network infrastructure from potential threats. 
 
 ### Skills Learned
-- Advanced understanding of SIEM concepts and practical application.
 
 - **Vulnerability Assessment**:
   - Conducting thorough vulnerability scans using tools like Nessus or OpenVAS.
