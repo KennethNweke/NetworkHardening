@@ -46,5 +46,4 @@ The Network Hardening project aimed to establish a secure network topology. The 
 ## Resources
 Full PT File and Documentation below.
   - [Kenneth Nweke - Network Hardening PT File](https://drive.google.com/file/d/1ZIx2nJbQ4dz31UHAGyo1UcuZNtdKV9jN/view?usp=sharing)
-  -  [Kenneth Nweke - Network Hardening .pdf](https://github.com/user-attachments/files/15986792/Kenneth.Nweke.-.Network.Hardening.pdf)
-
+  -  [Kenneth Nweke - Network Hardening.pdf](https://github.com/user-attachments/files/15987380/Kenneth.Nweke.-.Network.Hardening.pdf)
