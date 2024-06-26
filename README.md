@@ -7,10 +7,34 @@ The Network Hardening project aimed to establish a secure network topology. The 
 
 ### Skills Learned
 - Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+
+Vulnerability Assessment:
+Conducting thorough vulnerability scans using tools like Nessus or OpenVAS.
+Analyzing scan results to identify and prioritize network vulnerabilities.
+
+Firewall Configuration:
+Setting up and configuring firewalls to control incoming and outgoing network traffic.
+Creating and managing rules to allow or block specific types of traffic.
+
+Implementing Site-to-site VPN
+Implementing site-to-site VPN for secure access over the internet.
+
+Encryption Techniques:
+Applying encryption protocols (e.g., SSL/TLS, IPsec) to secure data in transit.
+Using tools like GnuPG for encrypting data at rest.
+
+Access Control Management:
+Configuring and managing access control lists (ACLs) on network devices.
+
+Network Device Hardening:
+Securing routers, switches, and other network devices by disabling unused services and ports.
+Updating firmware and applying security patches.
+
+Network Documentation:
+Drafting network topology, design and security documentation.
+
+Security Testing and Validation:
+Runnig tests to ensure devices are secure and align to business policy.
 
 ### Tools Used
 - Network Simulation
