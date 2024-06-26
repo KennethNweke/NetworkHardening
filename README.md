@@ -18,10 +18,6 @@ The Network Hardening project aimed to establish a secure network topology. The 
 - **Implementing Site-to-site VPN**:
   - Implementing site-to-site VPN for secure access over the internet.
 
-- **Encryption Techniques**:
-  - Applying encryption protocols (e.g., SSL/TLS, IPsec) to secure data in transit.
-  - Using tools like GnuPG for encrypting data at rest.
-
 - **Access Control Management**:
   - Configuring and managing access control lists (ACLs) on network devices.
 
