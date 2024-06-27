@@ -3,7 +3,7 @@
 
 ## Objective
 
-The Network Hardening project aimed to establish a secure network topology. The primary focus was to enhance the security and resilience of a network by applying various hardening techniques by identifying vulnerabilities, implementing security controls, and following best practices to protect network infrastructure from potential threats. 
+The Network Hardening project aimed to establish a secure network topology. The primary focus was to enhance network security and resilience by identifying vulnerabilities, implementing security controls, and following best practices to protect the infrastructure from potential threats. 
 
 ## Skills Learned
 
